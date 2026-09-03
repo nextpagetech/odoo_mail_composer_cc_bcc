@@ -24,4 +24,7 @@ Adds Cc and Bcc partner fields to the mail composer, company defaults, email tem
         "views/mail_template_views.xml",
         "wizards/mail_compose_message_view.xml",
     ],
+    "images": [
+        "static/description/banner.png",
+    ],
 }
